@@ -1,0 +1,19 @@
+.........
+found 373777519400745 : Pos{x=-90, y=0, z=14} Pos{x=-1456, y=0, z=176}
+[ItemStack{item=Item{name='obsidian', enchantments=[], effects=[]}, count=54}]
+...........
+found 6798093146233609 : Pos{x=-82, y=0, z=12} Pos{x=-1280, y=0, z=192}
+[ItemStack{item=Item{name='obsidian', enchantments=[], effects=[]}, count=54}]
+.....................................................................................................................
+found 5464771542393817 : Pos{x=37, y=0, z=-79} Pos{x=592, y=0, z=-1280}
+[ItemStack{item=Item{name='obsidian', enchantments=[], effects=[]}, count=54}]
+...............................................
+found 10068827789936137 : Pos{x=85, y=0, z=48} Pos{x=1344, y=0, z=768}
+[ItemStack{item=Item{name='obsidian', enchantments=[], effects=[]}, count=54}]
+....
+found 2071420051996489 : Pos{x=86, y=0, z=71} Pos{x=1408, y=0, z=1152}
+[ItemStack{item=Item{name='obsidian', enchantments=[], effects=[]}, count=54}]
+...........
+found 34430582023745449 : Pos{x=100, y=0, z=37} Pos{x=1584, y=0, z=592}
+[ItemStack{item=Item{name='obsidian', enchantments=[], effects=[]}, count=54}]
+..

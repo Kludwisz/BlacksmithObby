@@ -1,0 +1,6 @@
+373777519400745		/tp @s -1456 90 176  (plains village)
+6798093146233609	/tp @s -1280 90 192  (abandoned desert village)
+5464771542393817	/tp @s 592 90 -1280  (desert village)
+10068827789936137	/tp @s 1344 90 768   (savanna village) 
+2071420051996489	/tp @s 1408 90 1152  (savanna village)
+34430582023745449	/tp @s 1584 90 592   (taiga village)
